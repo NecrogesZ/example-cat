@@ -1,0 +1,21 @@
+h1 {
+    color: rebeccapurple;
+    font-size: 180px;
+    text-align: center;
+    border-radius: 120%;
+    background-color: hsl(172, 73%, 54%);
+}
+
+h4 {
+    color: blue;
+    rotate: 19deg;
+    text-align: center;
+    font-size: 60px;
+}
+
+body {
+    background-color: rgb(226, 43, 128);
+    margin: 2px 32px 20px;
+}
+
+
